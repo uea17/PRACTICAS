@@ -1,0 +1,14 @@
+C:\PRACTICAS\PRACTICAS\bin\Debug\net9.0\PRACTICAS.exe
+C:\PRACTICAS\PRACTICAS\bin\Debug\net9.0\PRACTICAS.deps.json
+C:\PRACTICAS\PRACTICAS\bin\Debug\net9.0\PRACTICAS.runtimeconfig.json
+C:\PRACTICAS\PRACTICAS\bin\Debug\net9.0\PRACTICAS.dll
+C:\PRACTICAS\PRACTICAS\bin\Debug\net9.0\PRACTICAS.pdb
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\PRACTICAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\PRACTICAS.AssemblyInfoInputs.cache
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\PRACTICAS.AssemblyInfo.cs
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\PRACTICAS.csproj.CoreCompileInputs.cache
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\PRACTICAS.dll
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\refint\PRACTICAS.dll
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\PRACTICAS.pdb
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\PRACTICAS.genruntimeconfig.cache
+C:\PRACTICAS\PRACTICAS\obj\Debug\net9.0\ref\PRACTICAS.dll
