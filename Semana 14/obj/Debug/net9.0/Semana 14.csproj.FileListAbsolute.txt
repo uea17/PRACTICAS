@@ -12,3 +12,4 @@ C:\PRACTICAS\Semana 14\obj\Debug\net9.0\refint\Semana 14.dll
 C:\PRACTICAS\Semana 14\obj\Debug\net9.0\Semana 14.pdb
 C:\PRACTICAS\Semana 14\obj\Debug\net9.0\Semana 14.genruntimeconfig.cache
 C:\PRACTICAS\Semana 14\obj\Debug\net9.0\ref\Semana 14.dll
+C:\PRACTICAS\Semana 14\obj\Debug\net9.0\Semana 14.sourcelink.json

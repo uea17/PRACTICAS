@@ -1,0 +1,15 @@
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.AssemblyInfoInputs.cache
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.AssemblyInfo.cs
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.csproj.CoreCompileInputs.cache
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.sourcelink.json
+C:\PRACTICAS\sistemas\bin\Debug\net9.0\sistemas.exe
+C:\PRACTICAS\sistemas\bin\Debug\net9.0\sistemas.deps.json
+C:\PRACTICAS\sistemas\bin\Debug\net9.0\sistemas.runtimeconfig.json
+C:\PRACTICAS\sistemas\bin\Debug\net9.0\sistemas.dll
+C:\PRACTICAS\sistemas\bin\Debug\net9.0\sistemas.pdb
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.dll
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\refint\sistemas.dll
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.pdb
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\sistemas.genruntimeconfig.cache
+C:\PRACTICAS\sistemas\obj\Debug\net9.0\ref\sistemas.dll

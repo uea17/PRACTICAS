@@ -1,0 +1,15 @@
+C:\PRACTICAS\Repetir semana 14\bin\Debug\net9.0\Repetir semana 14.exe
+C:\PRACTICAS\Repetir semana 14\bin\Debug\net9.0\Repetir semana 14.deps.json
+C:\PRACTICAS\Repetir semana 14\bin\Debug\net9.0\Repetir semana 14.runtimeconfig.json
+C:\PRACTICAS\Repetir semana 14\bin\Debug\net9.0\Repetir semana 14.dll
+C:\PRACTICAS\Repetir semana 14\bin\Debug\net9.0\Repetir semana 14.pdb
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.AssemblyInfoInputs.cache
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.AssemblyInfo.cs
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.csproj.CoreCompileInputs.cache
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.sourcelink.json
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.dll
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\refint\Repetir semana 14.dll
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.pdb
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\Repetir semana 14.genruntimeconfig.cache
+C:\PRACTICAS\Repetir semana 14\obj\Debug\net9.0\ref\Repetir semana 14.dll
