@@ -1,0 +1,15 @@
+C:\PRACTICAS\PRACTICO 4\bin\Debug\net9.0\PRACTICO 4.exe
+C:\PRACTICAS\PRACTICO 4\bin\Debug\net9.0\PRACTICO 4.deps.json
+C:\PRACTICAS\PRACTICO 4\bin\Debug\net9.0\PRACTICO 4.runtimeconfig.json
+C:\PRACTICAS\PRACTICO 4\bin\Debug\net9.0\PRACTICO 4.dll
+C:\PRACTICAS\PRACTICO 4\bin\Debug\net9.0\PRACTICO 4.pdb
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.AssemblyInfoInputs.cache
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.AssemblyInfo.cs
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.csproj.CoreCompileInputs.cache
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.sourcelink.json
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.dll
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\refint\PRACTICO 4.dll
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.pdb
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\PRACTICO 4.genruntimeconfig.cache
+C:\PRACTICAS\PRACTICO 4\obj\Debug\net9.0\ref\PRACTICO 4.dll
